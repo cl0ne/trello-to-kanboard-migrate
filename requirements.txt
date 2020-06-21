@@ -1,0 +1,4 @@
+kanboard>=1.1.2
+py-trello>=0.16.0
+requests>=2.24.0
+pytz>=2020.1

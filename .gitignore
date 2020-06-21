@@ -1,0 +1,31 @@
+### OS-specific
+
+# Linux
+*~
+*.swp
+.fuse_hidden*
+.directory
+
+# Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+### Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+*.egg
+*.egg-info/
+
+### Pycharm
+.idea/
